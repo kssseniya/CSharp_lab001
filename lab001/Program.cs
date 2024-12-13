@@ -22,4 +22,3 @@ Console.WriteLine($"char: Минимальное = {char.MinValue}, Максим
 // Минимальное и максимальное значения для булевого типа данных:
 Console.WriteLine("\nБулевый тип данных:");
 Console.WriteLine($"bool: Минимальное = {bool.FalseString}, Максимальное = {bool.TrueString}");
-Console.WriteLine( sizeof (double));
